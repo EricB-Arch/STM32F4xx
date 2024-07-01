@@ -35,5 +35,6 @@ build
 
 .vscode/settings.json
 .vscode/extensions.json
+.vscode/launch.json
 .vscode/c_cpp_properties.json
 *.code-workspace

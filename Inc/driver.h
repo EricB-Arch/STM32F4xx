@@ -167,6 +167,8 @@
   #include "boards/longboard32_map.h"
 #elif defined(BOARD_MKS_EAGLE)
   #include "boards/mks_eagle_map.h"
+#elif defined(BOARD_DISCO_F407VG)
+  #include "boards/disco_f407vg_map.h"
 #elif defined(BOARD_MY_MACHINE)
   #include "boards/my_machine_map.h"
 #else // default board
